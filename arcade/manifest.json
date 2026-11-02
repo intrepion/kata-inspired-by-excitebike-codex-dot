@@ -1,6 +1,49 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-inspired-by-excitebike-codex-dot",
   "playUrl": "https://intrepion.github.io/kata-inspired-by-excitebike-codex-dot/",
-  "screenshots": []
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/ci-20261102-01.jpg",
+      "sha256": "909d96126c2f470fec6931176863079a66f4242776975d093e1528f87409da31",
+      "alt": "Dirt Circuit gameplay, view 1",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
+        "sourceSha256": "d0b5d48b583e2e3bbe40f82a9b5221dc82a0bfe49491cbafba5a429a67445813",
+        "captureCommit": "628f92812bc4daf3a7130ea342360c60681fcfb0",
+        "workflowRunId": "41381979201",
+        "inputHashes": {
+          "index.html": "6b001d9fd10f7278a20e6fc9490f434e63f2f4dcbc2c126e16506c468f985a55",
+          "style.css": "ec3e5efe12f1f78546a8e3fc7c09213776e215bfc0a8b9136f2f35bb8a4dd426",
+          "engine.js": "1e2a548175fc8141b734c36c74962db634f3be4ed4b8c7840b8f04ab651a633d",
+          "game.js": "838f3e747c52a3a5c0e14c710c7cdb37969dd7aca4d4c0f48ae46f947283f69e"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "03615afe7c1984e102e55d340512f992a3bfa97ea32a050f815c56e9ba9f683e"
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-02.jpg",
+      "sha256": "b5d83fa9aff68e9d217c9dd2b44a7377181fb40469ff7a081f81fa88346d2910",
+      "alt": "Dirt Circuit gameplay, view 2",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
+        "sourceSha256": "b0010a9152eebd36690c6a9d1061842498ae88d0ebfe8f550a2ef27d65d20a70",
+        "captureCommit": "628f92812bc4daf3a7130ea342360c60681fcfb0",
+        "workflowRunId": "41381979201",
+        "inputHashes": {
+          "index.html": "6b001d9fd10f7278a20e6fc9490f434e63f2f4dcbc2c126e16506c468f985a55",
+          "style.css": "ec3e5efe12f1f78546a8e3fc7c09213776e215bfc0a8b9136f2f35bb8a4dd426",
+          "engine.js": "1e2a548175fc8141b734c36c74962db634f3be4ed4b8c7840b8f04ab651a633d",
+          "game.js": "838f3e747c52a3a5c0e14c710c7cdb37969dd7aca4d4c0f48ae46f947283f69e"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "03615afe7c1984e102e55d340512f992a3bfa97ea32a050f815c56e9ba9f683e"
+      }
+    }
+  ]
 }
