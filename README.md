@@ -20,3 +20,7 @@ The game uses an original canvas illustration and a synthesized sound cue. Side-
 - [HonestGamers review](https://www.honestgamers.com/11896/nes/excitebike/review.html): lane hazards and landing alignment.
 
 Excitebike is a trademark of its respective owner. This independent learning project is not affiliated with or endorsed by Nintendo. Source code and original assets are under the MIT license.
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
