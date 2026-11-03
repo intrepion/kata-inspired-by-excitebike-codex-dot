@@ -1,5 +1,7 @@
 # Dirt Circuit
 
+[Play Dirt Circuit](https://intrepion.github.io/kata-inspired-by-excitebike-codex-dot/)
+
 A small, original-art motocross time trial inspired by Nintendo's Excitebike. Race two laps on five dirt courses alone or with rival bikes. Manage turbo heat, steer between four lanes, and adjust your pitch before landing. [Return to the Kata Arcade](https://intrepion.github.io/).
 
 ## Play locally
